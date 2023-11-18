@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it was a very good day
+=======
+now alien-plot
+>>>>>>> alien-plot
